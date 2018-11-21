@@ -12,11 +12,11 @@ Additions to the original model:
 #### PARSER:
 The PARSER folder contains three files.
 1. Stringdata.py
-This scripts contains methods to extract the data from the string-sets in the DATA folder.
+| This scripts contains methods to extract the data from the string-sets in the DATA folder.
 2. data_handeling.py
-Contains methods to use the data collected using the Stringdata.py script.
+| Contains methods to use the data collected using the Stringdata.py script.
 3. PARSER_class.py
-The PARSER model. Contains methods for training and testing the model.
+| The PARSER model. Contains methods for training and testing the model.
 
 #### DATA:
 This folder contains a number of string-sets that I used for experimentation in my master thesis. These string-sets are collected from.
